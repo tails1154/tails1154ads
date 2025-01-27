@@ -1,0 +1,25 @@
+{
+  "name": "tails1154ads",
+  "version": "1.0.0",
+  "description": "tails1154 ads server",
+  "keywords": [
+    "server",
+    "ads"
+  ],
+  "homepage": "https://github.com/tails1154/tails1154ads#readme",
+  "bugs": {
+    "url": "https://github.com/tails1154/tails1154ads/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tails1154/tails1154ads.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Tails1154",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
